@@ -1,0 +1,21 @@
+.container-card-game {
+    max-width: auto;
+    margin: 10px 0px;
+}
+
+.container-image-card-game{
+    width: 20em;
+    border-radius: 5px ; 
+}
+
+@media only screen and (max-width: 1060px) {
+    .container-image-card-game{
+        width: 8.5em
+    } 
+}
+.title-card-game{
+    color:#4d4d4d;
+    font-weight: 600;
+    margin: 0;
+    font-size: 14px;
+}

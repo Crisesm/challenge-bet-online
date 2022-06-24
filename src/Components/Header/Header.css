@@ -1,0 +1,8 @@
+.container-header {
+    background-color: #2d2e2c;
+    height: 50px;
+    position: fixed;
+    top:0;
+    width: 100%;
+    text-align: left;
+}

@@ -1,0 +1,4 @@
+export const SET_GAMES_DATA= "SET_USER_DATA";
+export const SET_GAMES_DATA_FULFILLED = `${SET_GAMES_DATA}_FULFILLED`;
+
+
